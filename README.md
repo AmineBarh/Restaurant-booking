@@ -1,4 +1,4 @@
-echo "# Restaurant-booking" >> README.md
+echo "# Restaurant-booking" >> README.md <br>
 git init
 git add .
 git commit -m "_______________"
